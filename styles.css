@@ -17,7 +17,8 @@ body {
 .hero {
     display: flex;
     flex-direction: column;
-    margin: 20px 25px;
+    width: 750px;
+    margin: 20px auto;
     padding: 10px;
     background: linear-gradient(#bde0fe, #a2d2ff);
     border-radius: 10px;
@@ -34,7 +35,8 @@ h1 {
 .activity{
     display: flex;
     flex-direction: column;
-    margin: 50px 50px;
+    width: 500px;
+    margin: 50px auto;
     padding: 0 25px 25px 25px;
     background: linear-gradient(#ffafcc, #ffc9dd);
     border-radius: 10px;
